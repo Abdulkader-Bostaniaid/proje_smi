@@ -1,0 +1,2 @@
+# proje_smi
+Açıklama
